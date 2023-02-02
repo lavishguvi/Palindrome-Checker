@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 200px;
+  height: 25px;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 10px;
+}
